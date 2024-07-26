@@ -1,0 +1,7 @@
+C:\Websites\dnndev.me\bin\AngularRouting.dll
+C:\Websites\dnndev.me\bin\AngularRouting.pdb
+C:\Websites\dnndev.me\DesktopModules\AngularRouting\obj\Release\AngularRouting.csproj.AssemblyReference.cache
+C:\Websites\dnndev.me\DesktopModules\AngularRouting\obj\Release\AngularRouting.csproj.CoreCompileInputs.cache
+C:\Websites\dnndev.me\DesktopModules\AngularRouting\obj\Release\AngularR.96669C31.Up2Date
+C:\Websites\dnndev.me\DesktopModules\AngularRouting\obj\Release\AngularRouting.dll
+C:\Websites\dnndev.me\DesktopModules\AngularRouting\obj\Release\AngularRouting.pdb
